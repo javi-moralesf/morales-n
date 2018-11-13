@@ -1,8 +1,9 @@
 {
-  "name": "test-morales-renderer",
-  "version": "0.2.0",
-  "private": true,
+  "name": "test-morales-n",
+  "version": "0.1.0",
+  "private": false,
   "dependencies": {
+    "test-morales-m": "0.1.1",
     "node-sass": "^4.10.0",
     "react": "^15.3.0",
     "react-dom": "^15.3.0",
